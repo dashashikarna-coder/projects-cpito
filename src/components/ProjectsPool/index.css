@@ -1,0 +1,32 @@
+.projects-pool {
+  flex: 1;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 16px;
+  padding: 20px;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.projects-pool .projects-list {
+  max-height: 70vh;
+  overflow-y: auto;
+  padding-right: 8px;
+}
+
+.projects-pool .projects-list::-webkit-scrollbar {
+  width: 8px;
+}
+
+.projects-pool .projects-list::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.projects-pool .projects-list::-webkit-scrollbar-thumb {
+  background: #667eea;
+  border-radius: 10px;
+}
+
+.projects-pool .projects-list::-webkit-scrollbar-thumb:hover {
+  background: #764ba2;
+}
