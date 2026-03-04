@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/projects-cpito/static/css/main.fa802727.css",
+    "main.js": "/projects-cpito/static/js/main.9427aff8.js",
+    "index.html": "/projects-cpito/index.html",
+    "main.fa802727.css.map": "/projects-cpito/static/css/main.fa802727.css.map",
+    "main.9427aff8.js.map": "/projects-cpito/static/js/main.9427aff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa802727.css",
+    "static/js/main.9427aff8.js"
+  ]
+}
