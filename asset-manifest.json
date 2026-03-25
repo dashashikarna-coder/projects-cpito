@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/projects-cpito/static/css/main.4d83b1ba.css",
-    "main.js": "/projects-cpito/static/js/main.27740693.js",
+    "main.css": "/projects-cpito/static/css/main.fdc6d72f.css",
+    "main.js": "/projects-cpito/static/js/main.804e3cce.js",
     "index.html": "/projects-cpito/index.html",
-    "main.4d83b1ba.css.map": "/projects-cpito/static/css/main.4d83b1ba.css.map",
-    "main.27740693.js.map": "/projects-cpito/static/js/main.27740693.js.map"
+    "main.fdc6d72f.css.map": "/projects-cpito/static/css/main.fdc6d72f.css.map",
+    "main.804e3cce.js.map": "/projects-cpito/static/js/main.804e3cce.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d83b1ba.css",
-    "static/js/main.27740693.js"
+    "static/css/main.fdc6d72f.css",
+    "static/js/main.804e3cce.js"
   ]
 }
