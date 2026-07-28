@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://dashashikarna-coder.github.io/projects-cpito/static/css/main.b09b9090.css",
-    "main.js": "https://dashashikarna-coder.github.io/projects-cpito/static/js/main.3c60fd1d.js",
+    "main.js": "https://dashashikarna-coder.github.io/projects-cpito/static/js/main.1dbbaf94.js",
     "index.html": "https://dashashikarna-coder.github.io/projects-cpito/index.html",
     "main.b09b9090.css.map": "https://dashashikarna-coder.github.io/projects-cpito/static/css/main.b09b9090.css.map",
-    "main.3c60fd1d.js.map": "https://dashashikarna-coder.github.io/projects-cpito/static/js/main.3c60fd1d.js.map"
+    "main.1dbbaf94.js.map": "https://dashashikarna-coder.github.io/projects-cpito/static/js/main.1dbbaf94.js.map"
   },
   "entrypoints": [
     "static/css/main.b09b9090.css",
-    "static/js/main.3c60fd1d.js"
+    "static/js/main.1dbbaf94.js"
   ]
 }
